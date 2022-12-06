@@ -86,4 +86,8 @@ footer a:hover {
     .wave-img{ 
         display: none;
     }
+
+    main p{
+        font-size: 14px;
+    }
   }
